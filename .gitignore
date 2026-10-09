@@ -4,6 +4,11 @@
 # Log file
 *.log
 
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
 # BlueJ files
 *.ctxt
 
